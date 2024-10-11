@@ -1,7 +1,11 @@
 ---
 title: "Lab 03 - Take a sad plot and make it better"
 <<<<<<< HEAD
+<<<<<<< HEAD
 author: "Jamie, Chenghui Wu, Yankun Shen, Hani Malang, User5 and TANKI - Team Name"
+=======
+author: "Jamie, Chenghui Wu, Yankun Shen, Hani Malang, and TANKI - Table 11"
+>>>>>>> 9616d8e42da04934422eb3d5d9bc3cc9227c2828
 date: "`r Sys.Date()`"
 output: html_document
 ---
