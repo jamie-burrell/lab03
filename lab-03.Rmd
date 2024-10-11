@@ -55,7 +55,7 @@ _Write your comments about image 3 below_
 knitr::include_graphics("img/global-income-dist.PNG")
 ```
 
-_Write your comments about image 4 below_
+ 
 
 
 
@@ -71,9 +71,12 @@ staff <- read_csv("data/instructional-staff.csv")
 ## Exercise 1
 
 What is the difference between *wide format* data and *long format* data?
-
+wide format variable have their own column and normally many columns represent the same variables in different time or condition
+long format means data was managed by two colmuns and one colmun means its name and another is value,eg: income data will distinguish datas by year and income,so different year income will show in many rows
 
 Is the format `staff` data *wide* or *long*?
+
+
 
 
 How many observations are there in the data set?
@@ -108,7 +111,7 @@ How many observations are there in the data set?
 ## Exercise 4
 
 ```{r bad-line-plot}
-# Write your code for Exercise 4 here
+print("")
 
 
 
