@@ -52,7 +52,7 @@ In Graph No. 3, the main problem is lack of clarity. The graph has many countrie
 knitr::include_graphics("img/global-income-dist.PNG")
 ```
 
- image 4 shows the graph of global income in 2011 in different countries. the x-axis is on a logarithmic axis so it may be caused confused about its comparative proportion. and the property line cannot directly show which countries or what the poor percentage of those countries even though it shown on the graph
+ image 4 shows the graph of global income in 2011 in different countries. the x-axis is on a logarithmic axis so it may be caused confused about its comparative proportion. and the property line cannot directly show which countries or what the poor percentage of those countries even though it shown on the graph.
 
 
 
