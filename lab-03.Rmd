@@ -44,10 +44,7 @@ _Write your comments about image 2 below_
 knitr::include_graphics("img/life-expectancy-rule-of-law.png")
 ```
 
-_Write your comments about image 3 below_
-
-
-
+In Graph No. 3, the main problem is lack of clarity. The graph has many countries stacked on top of each other and clumped around each other. This means that it is hard to tell which country is which. The country dots are also different sizes. However there is no legend telling us what the size of the dot represents for each country.
 
 ## Image 4
 
