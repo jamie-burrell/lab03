@@ -23,7 +23,7 @@ knitr::include_graphics("img/Speaking-the-world.jpg")
 
 ### Write your comments about image 1 below_
 
-The bars are not to scale, with English and Spanish having the same size bar despite differing by 300 million speakers. The difference between 765 million and 1026 billion is also not adequately represented. This is not respecting the people or the data.
+The bars are not to scale, with English and Spanish having the same size bar despite differing by 300 million speakers. The difference between 765 million and 1.026 billion is also not adequately represented. This is not respecting the people or the data.
 
 
 
