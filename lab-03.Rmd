@@ -21,14 +21,14 @@ library(ggplot2)
 knitr::include_graphics("img/Speaking-the-world.jpg")
 ```
 
-_Write your comments about image 1 below_
+### Write your comments about image 1 below_
 
-
+The bars are not to scale, with English and Spanish having the same size bar despite differing by 300 million speakers. The difference between 765 million and 1.026 billion is also not adequately represented. This is not respecting the people or the data.
 
 
 
 ## Image 2
-
+the image have not label the clear data of the population density and the area and the meaning of the depth of the colour.
 ```{r echo=FALSE, out.width="100%"}
 knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
@@ -44,10 +44,7 @@ _Write your comments about image 2 below_
 knitr::include_graphics("img/life-expectancy-rule-of-law.png")
 ```
 
-_Write your comments about image 3 below_
-
-
-
+In Graph No. 3, the main problem is lack of clarity. The graph has many countries stacked on top of each other and clumped around each other. This means that it is hard to tell which country is which. The country dots are also different sizes. However there is no legend telling us what the size of the dot represents for each country.
 
 ## Image 4
 
