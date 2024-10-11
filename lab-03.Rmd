@@ -21,14 +21,14 @@ library(ggplot2)
 knitr::include_graphics("img/Speaking-the-world.jpg")
 ```
 
-_Write your comments about image 1 below_
+### Write your comments about image 1 below_
 
-
+The bars are not to scale, with English and Spanish having the same size bar despite differing by 300 million speakers. The difference between 765 million and 1.026 billion is also not adequately represented. This is not respecting the people or the data.
 
 
 
 ## Image 2
-
+the image have not label the clear data of the population density and the area and the meaning of the depth of the colour.
 ```{r echo=FALSE, out.width="100%"}
 knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
@@ -44,10 +44,7 @@ _Write your comments about image 2 below_
 knitr::include_graphics("img/life-expectancy-rule-of-law.png")
 ```
 
-_Write your comments about image 3 below_
-
-
-
+In Graph No. 3, the main problem is lack of clarity. The graph has many countries stacked on top of each other and clumped around each other. This means that it is hard to tell which country is which. The country dots are also different sizes. However there is no legend telling us what the size of the dot represents for each country.
 
 ## Image 4
 
@@ -55,7 +52,11 @@ _Write your comments about image 3 below_
 knitr::include_graphics("img/global-income-dist.PNG")
 ```
 
-_Write your comments about image 4 below_
+<<<<<<< HEAD
+=======
+ image 4 shows the graph of global income in 2011 in different countries. the x-axis is on a logarithmic axis so it may be caused confused about its comparative proportion. and the property line cannot directly show which countries or what the poor percentage of those countries even though it shown on the graph...
+>>>>>>> f69b2f3448109778278c6626e707b1282e0ae652
+ 
 
 
 
@@ -72,12 +73,16 @@ staff <- read_csv("data/instructional-staff.csv")
 
 What is the difference between *wide format* data and *long format* data?
 
+wide format variable have their own column and normally many columns represent the same variables in different time or condition
+long format means data was managed by two colmuns and one colmun means its name and another is value,eg: income data will distinguish datas by year and income,so different year income will show in many rows
 
 Is the format `staff` data *wide* or *long*?
+- wide
+
 
 
 How many observations are there in the data set?
-
+- 60
 
 
 
@@ -108,7 +113,7 @@ How many observations are there in the data set?
 ## Exercise 4
 
 ```{r bad-line-plot}
-# Write your code for Exercise 4 here
+print("")
 
 
 
