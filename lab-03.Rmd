@@ -28,7 +28,7 @@ _Write your comments about image 1 below_
 
 
 ## Image 2
-
+the image have not label the clear data of the population density and the area and the meaning of the depth of the colour.
 ```{r echo=FALSE, out.width="100%"}
 knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
